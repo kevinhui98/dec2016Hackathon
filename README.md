@@ -6,6 +6,7 @@ Social Justice description....
 
 ####Links and inspiration
 * [sample](sample.com)
+* [sample](sample.com)
 
 ##Hackathon Sites
 [Google: 4th floor](location/googleFourthFloor.md)| [Google: 10th floor](location/googleTenthFloor.md)|[Microsoft](location/microsoft.md) | 
@@ -28,4 +29,12 @@ Time         | Activity        |
 7:10pm           | Prizes awarded |
 7:45pm           | Clean up |
 
+##Prizes 
 
+* First Place: Chromebooks
+* Second Place: $50 Amazon Gift Gard
+* Third Place: $25 Amazon Gift Gard
+* Judges Choice: $25 Amazon Gift Gard
+* Judges Choice: $25 Amazon Gift Gard
+
+**Each of the three hackathon sites will be awarding the prizes mentioned above. On each team each students will recieve a prizes (I.E. a second place team with 6 students will recieve six gift cards with a value of $50 each.**
