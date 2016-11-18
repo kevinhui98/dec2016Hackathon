@@ -1,5 +1,5 @@
 # ScriptEd Hackathon December 2016!!
-
+![Imgur](http://i.imgur.com/KxRicIt.png)
 
 ##Theme: Social Justice
 Social Justice description....
