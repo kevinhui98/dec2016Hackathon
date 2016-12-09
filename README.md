@@ -18,5 +18,6 @@ The theme of social change will mean different of things to different people-- m
 ##Cloud 9 Sign Ups
 If your team decides to use Cloud 9 during the hackathon please use [this slideshow](https://docs.google.com/presentation/d/1HttvmHhhCrb7ORso0HWFuXZfucHvZ450OlO3OONDcLo/edit#slide=id.g14ecb9111c_1_0) to help at least one member of the team sign up for Cloud 9. 
 
-
+##Judging Rubric
+All teams will be judged on [this rubric](https://docs.google.com/document/d/1C-i7oogZ6J055hGyu9keYNTDLywYsVzvVepih-IWVoo/edit)
 
