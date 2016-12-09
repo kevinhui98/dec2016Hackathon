@@ -15,6 +15,8 @@ The theme of social change will mean different of things to different people-- m
 [Google: 5th floor](location/google5thFloor.md)| [Google: 11th floor](location/google11thFloor.md)|[Microsoft](location/microsoft.md) | 
 --------------------|------------------|---------------|
 
+##Cloud 9 Sign Ups
+If your team decides to use Cloud 9 during the hackathon please use [this slideshow](https://docs.google.com/presentation/d/1HttvmHhhCrb7ORso0HWFuXZfucHvZ450OlO3OONDcLo/edit#slide=id.g14ecb9111c_1_0) to help at least one member of the team sign up for Cloud 9. 
 
 
 
