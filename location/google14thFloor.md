@@ -1,4 +1,4 @@
-#Google 11th Floor Hackathon December 2016
+#Google 14th Floor Hackathon December 2016
 
 ##Submit Projects Here
 **[Project Submission Form](https://goo.gl/forms/79zfz1urgmhFONZs2)**  
@@ -8,9 +8,9 @@ Project must be submitted before 5:00pm
 All submitted project can be found [here](https://docs.google.com/spreadsheets/d/10dPJTzHmFB7pnjJojIJWIicyIcJ8qMIney1vXQEK7rk/edit?usp=sharing)
 
 ##Prizes
-* **1st Place**:
-* **2st Place**:
-* **3st Place**:  
+* **1st Place**: Laptop (Nextbook Flex)
+* **2st Place**: Tablet (Amazon Fire)
+* **3st Place**: Bluetooth Speaker 
 
 
 ##Schedule
@@ -20,11 +20,11 @@ Time         | Activity        |
 10:00am       | Welcome Talk    | 
 10:15am  | Teams start wireframing & planning      | 
 11:00am      | Teams get laptops  | 
-11:45am           | Lunch: Pizza    | 
+11:45am           | Lunch: Sandwiches    | 
 5:00pm         | Projects due: Projects submitted after 5pm are disqualified     |
-5:10pm         | Judging beging (Students present projects)     | 
-5:45pm            | Dinner: Sandwiches      | 
-6:00pm           | Finalists present (5 teams) |
+5:10pm         | Presentations begin     | 
+5:30-5:40            | Pizza Break!     | 
+5:40pm           | Presentations resume (spectators eat pizza)|
 6:50pm           | Judges deliberate | 
 7:10pm           | Prizes awarded |
 7:45pm           | Clean up |
