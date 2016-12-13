@@ -10,6 +10,11 @@ The theme of social change will mean different of things to different people-- m
 * [Games for Change](http://www.gamesforchange.org/studentchallenge/blog/)
 * [Data News](https://datanews.chhs.ca.gov/2016/08/10/2016-uc-davis-hackathon-focused-on-coding-for-social-good/)
 * [Technical.ly](http://technical.ly/philly/2014/11/07/data-driven-solutions-shine-penns-social-impact-hackathon/)
+* [Issues You Can Work On](https://www.dosomething.org/us/campaigns/)
+* [Emoti-Con](http://emoti-con.org/)
+* [1001 Hackathon](http://1001.impacthub.net/) 
+
+
 
 ##Hackathon Sites
 [Google: 5th floor](location/google5thFloor.md)| [Google: 14th floor](location/google14thFloor.md)|[Microsoft](location/microsoft.md) | 
