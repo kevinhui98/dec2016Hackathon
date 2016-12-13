@@ -1,5 +1,5 @@
 # ScriptEd Hackathon December 2016!!
-![Imgur](http://i.imgur.com/KxRicIt.png)
+![Imgur](http://i.imgur.com/RecSfOa.jpg)
 
 ##Theme: Social Justice
 You will use your coding skills, your creativity, your experiences to design projects that help make the world (Or your school! Or New York! Or your neighborhood!) a better place.   
