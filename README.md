@@ -1,4 +1,4 @@
-# ScriptEd Hackathon December 2016!!
+# ScriptEd Hackathon December 2016!
 ![Imgur](http://i.imgur.com/RecSfOa.jpg)
 
 ##Theme: Social Justice
