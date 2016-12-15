@@ -6,7 +6,7 @@
 3. Add your team name, link to your repo and a link to your deployable website in the cells provided.
 4. Send a Pull request
 
-Projects must be submitted before 5:00pm  
+Projects must be submitted before 5:00pm... Be sure to start the submission process by 4:45!  
 **Any project submitted as a Cloud 9 Preview will be disqualified**
 
 
