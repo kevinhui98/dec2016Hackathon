@@ -9,7 +9,7 @@
 Projects must be submitted before 5:00pm... Be sure to start the submission process by 4:45!  
 **Any project submitted as a Cloud 9 Preview will be disqualified**
 
-#### A digital copy of the Hackathon Packet can be found [here](https://docs.google.com/document/d/1_5A_7kOpoXuPOsdFP_FGPwwH2Ny7AJI5IhSqT32NZ4c/edit?usp=sharing)
+### A digital copy of the Hackathon Packet can be found [here](https://docs.google.com/document/d/1_5A_7kOpoXuPOsdFP_FGPwwH2Ny7AJI5IhSqT32NZ4c/edit?usp=sharing)
 
 ##Submit Projects Here
 Letter| Team Name |        Github Repo      |      Deployable Link    | 
