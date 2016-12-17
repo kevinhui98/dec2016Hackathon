@@ -22,16 +22,14 @@ E     |           | [Link](insert link here)| [Link](insert link here)|
 F     |           | [Link](insert link here)| [Link](insert link here)|
 G     |           | [Link](insert link here)| [Link](insert link here)|
 H     |           | [Link](insert link here)| [Link](insert link here)|
-I     |           | [Link](insert link here)| [Link](insert link here)|
+I     |      ---  | ---| ---|
 J     |           | [Link](insert link here)| [Link](insert link here)|
 K     |           | [Link](insert link here)| [Link](insert link here)|
 L     |           | [Link](insert link here)| [Link](insert link here)|
 M     |           | [Link](insert link here)| [Link](insert link here)|
 N     |           | [Link](insert link here)| [Link](insert link here)|
 O     |           | [Link](insert link here)| [Link](insert link here)|
-P     |           | [Link](insert link here)| [Link](insert link here)|
-Q     |           | [Link](insert link here)| [Link](insert link here)|
-R     |           | [Link](insert link here)| [Link](insert link here)|				
+		
 
 ##Prizes
 * **1st Place**: Laptop (Asus) & 64GB ThumbDrive
